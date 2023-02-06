@@ -1,9 +1,11 @@
 pyrogram<=1.4.16
 tgcrypto
-aiohttp==3.7.4
 requests
 bs4
 tgcrypto
 pyshorteners
 #doodstream
 unshortenit
+Flask==2.2.2
+gunicorn==20.1.0
+aiohttp==3.8.1
